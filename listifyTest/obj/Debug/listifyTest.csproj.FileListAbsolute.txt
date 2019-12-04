@@ -1,0 +1,9 @@
+C:\Users\dmorton\source\repos\listifyTest\listifyTest\bin\Debug\listifyTest.exe.config
+C:\Users\dmorton\source\repos\listifyTest\listifyTest\bin\Debug\listifyTest.exe
+C:\Users\dmorton\source\repos\listifyTest\listifyTest\bin\Debug\listifyTest.pdb
+C:\Users\dmorton\source\repos\listifyTest\listifyTest\bin\Debug\nunit.framework.dll
+C:\Users\dmorton\source\repos\listifyTest\listifyTest\bin\Debug\nunit.framework.pdb
+C:\Users\dmorton\source\repos\listifyTest\listifyTest\bin\Debug\nunit.framework.xml
+C:\Users\dmorton\source\repos\listifyTest\listifyTest\obj\Debug\listifyTest.csproj.CopyComplete
+C:\Users\dmorton\source\repos\listifyTest\listifyTest\obj\Debug\listifyTest.exe
+C:\Users\dmorton\source\repos\listifyTest\listifyTest\obj\Debug\listifyTest.pdb
